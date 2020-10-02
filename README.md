@@ -6,7 +6,9 @@
 **[Basic Git Workflow](#Basic-git-work-flow)**
 
 ## Cloning a repo and changing the remote url
-(These steps are only for when you initially clone a project repo. Not when you clone your partners repo to collaborate together )
+
+(These steps are only for when you initially clone a project repo. Not when you clone your partners repo to collaborate together. To do that, you only have to complete step 1!)
+
 ### 1. The first step is to clone the repo!
 
 - Navigate to the repo you want to clone and hit the big green code button. Copy the link given.
